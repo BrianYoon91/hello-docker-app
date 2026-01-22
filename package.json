@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "node src/index.js",
-		"test": "npx jest"
+		"test": "node ./node_modules/jest/bin/jest.js"
 	},
 	"keywords": [],
 	"author": "",
